@@ -1,0 +1,34 @@
+body{
+  background-color: #444654; /* dark gray-blue */
+  color: #ececf1;  
+}
+
+.text-header{
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.chatBox{
+    margin-top: 34rem;
+    margin-left: 25rem;
+}
+
+.input-Box {
+   padding: 0.5rem 14rem ;
+   border-radius: 0.6rem;
+   border: 2px solid black;
+}
+
+.submitBtn{
+   color: black;
+   background-color: antiquewhite;
+   padding: 0.5rem 1rem ;
+   border-radius: 0.6rem;
+   margin-left: 0.1rem;
+}
+
+
+
+
+
+

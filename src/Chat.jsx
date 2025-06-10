@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const chartView = ({ data }) => {
+const ChatView = ({ data }) => {
     return (
         <div className='dataDisplay'>{data}</div>
     )
@@ -9,4 +9,4 @@ const chartView = ({ data }) => {
 
 
 
-export default chartView
+export default ChatView
